@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FraseDoDia</string>
+    <string name="frase_botao">Nova Frase</string>
+    <string name="texto_botao">Pressiona o botão para gerar uma nova frase</string>
+</resources>
